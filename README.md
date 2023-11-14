@@ -1,4 +1,6 @@
-# Plant Disease Detection And Faramer Asistant System
+# (PDDFA) Plant Disease Detection And Faramer Asistant System
+
+## Overview
 
 The agricultural industries are among the most significant industries. The Plant Disease Detection is capable of predicting the type of disease and identifying the best treatment. However, the individual eye is not well-equipped to identify the plant disease as like as the agricultural expert. Even disease is detected, finding the optimal treatment among the thousands of fertilizers and agricultural medicines is a challenging task. In addition, the individual may not know where the medicines will be available.
 
