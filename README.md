@@ -1,4 +1,4 @@
-# PDDFA (Plant Disease Detection And Faramer Asistant System)
+# PDDFA (Plant Disease Detection And Faramer Asistant)
 
 ## Overview
 
