@@ -1,0 +1,37 @@
+MEETING REPORT 2
+
+
+Team Name:  <TeamName>  Date of Meeting: 2023/11/11
+
+Start Time: 9:00     End Time: 10:45     Meeting Location: Zeem Meeting
+
+Members:  Ahmad Ilawa, Mohammad Nassar, Ahmad Qassam
+
+
+
+Topics Discussed:
+        
+Finish the project proposal, which includes the introduction, the main issue that the project is dealing with, and the technologies that should work well.
+
+
+Decisions Made:
+
+The system has been designated as 'Smart Image Processing for Plant Disease Detection and Farmer Assistant'.
+
+
+
+
+
+Tasks Assigned:
+
+
+
+
+
+
+
+Time, Place, and Agenda for Next Meeting:
+
+
+
+
