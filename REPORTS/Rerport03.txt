@@ -1,0 +1,45 @@
+MEETING REPORT 3
+
+
+Team Name:  <TeamName>  Date of Meeting: 2023/25/11
+
+Start Time: 5:00     End Time: 6:15     Meeting Location: Zeem Meeting
+
+Members:  Ahmad Ilawa, Mohammad Nassar, Ahmad Qassam
+
+
+
+Topics Discussed:
+Discuss about the methylogies  and technics about the project 
+
+
+
+Decisions Made:
+Project Techniques Overview:
+
+Preprocessing:
+
+Resize: Adjust the dimensions of images to a standardized size.
+Color Change (Histogram Equalization): Enhance image contrast and detail through histogram equalization, specifically focusing on HSI (Hue, Saturation, Intensity) color space.
+Normalize: Standardize pixel values to facilitate consistent input for subsequent processing.
+
+CNN for Image Processing:
+
+Utilize Convolutional Neural Networks (CNNs) to process preprocessed images for effective image detection.
+Implement CNN architecture designed to handle images with a fixed size of 420x420 pixels.
+
+
+
+Tasks Assigned:
+
+research about the CNN and preprocessing technics  
+
+
+
+
+
+Time, Place, and Agenda for Next Meeting:
+
+
+
+
