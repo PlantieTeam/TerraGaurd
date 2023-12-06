@@ -49,7 +49,7 @@ Building a mobile application that detect the plant disease could be a valuable 
 * Develop a user-friendly mobile application that can detect plant diseases with high accuracy and a short diagnosis time. 
 * Use image processing algorithms to extract visual features from plant images side by side with pre-trained CNN model to classify plant diseases.
 
-# 1.3 Intended Outcomes and Deliverables 
+### 1.3 Intended Outcomes and Deliverables 
 <p align="justify">
 The desired outcome from this project is a mobile application that provide the farmers the ability of detecting of plant disease, which save time, effort, and money. In addition, application will provide the farmers the common treatment of specific plant disease. The application is as an assistant for the farmers which reduce the need of experts which there's no need to waste much time in trying to predict the desired disease within the possibility of errors occurs.
 </p>
