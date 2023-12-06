@@ -57,12 +57,31 @@ The desired outcome from this project is a mobile application that provide the f
 
 
 ### 1.4	Summary of Report Structure
-
+<p align="justify">
 The senior project design document is divided into several chapters to ensure that technical experts can read it easily. The following describe each chapter content:
+</p>
+<p align="justify">
 In Chapter 1, you will find an overview of intended outcomes and deliverables, as well as an introduction to the project, the problem statement, and the purpose of the project.
-Chapter 2 provides background information, which includes a project overview, relevant statistics, and previous research and projects that have explored similar ideas.
+</p>
+<p align="justify">
+Chapter 2 provides background information, which includes a project overview, relevant statistics, and previous research and 
+projects that have explored similar ideas.
+</p>
+<p align="justify">
+
 In Chapter 3, the document outlines the main components of the project, and then provides an extensive explanation of the system design, which includes design specifications, related standards, and any constraints. The chapter focuses on design alternatives, system analysis, and optimization, and ends with simulation or experimental tests.
+</p>
+<p align="justify">
 Chapter 4 presents the project's findings and conclusions. 
-Chapter 5 concentrates on project management, which encompasses tasks, schedules, milestones, resource management, and cost management. The project lessons learned are included in this chapter.
+</p>
+<p align="justify">
+Chapter 5 concentrates on project management, which encompasses tasks, schedules, milestones, resource management, and cost 
+management. The project lessons learned are included in this chapter.
+</p>
+<p align="justify">
 In Chapter 6, the impact of the engineering solution on the environment, economy, society, and other relevant issues are discussed.
+</p>
+<p align="justify">
 The document ends in Chapter 7 with the team's final thoughts on the project, the skills they acquired during the process, and recommendations for future work.
+</p>
+
