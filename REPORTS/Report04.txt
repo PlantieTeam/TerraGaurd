@@ -1,0 +1,33 @@
+MEETING REPORT 3
+
+
+Team Name:  <TeamName>  Date of Meeting: 2023/4/12
+
+Start Time: 5:30     End Time: 6:15     Meeting Location: Zeem Meeting
+
+Members:  Ahmad Ilawa, Mohammad Nassar, Ahmad Qassam, DR. Mohammad Awad
+
+
+
+Topics Discussed:
+Discuss about what have been done in chapter 1
+Questions about the flow of the project
+
+
+
+Decisions Made:
+Keep working with CNN 
+The ability of reusing PlantViliage dateset
+
+Tasks Assigned:
+Searching about Related works, Assignee => (Ahmad Ilawa, Ahmad Qassam)  
+
+
+
+
+
+Time, Place, and Agenda for Next Meeting:
+
+
+
+
