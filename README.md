@@ -54,3 +54,15 @@ Building a mobile application that detect the plant disease could be a valuable 
 The desired outcome from this project is a mobile application that provide the farmers the ability of detecting of plant disease, which save time, effort, and money. In addition, application will provide the farmers the common treatment of specific plant disease. The application is as an assistant for the farmers which reduce the need of experts which there's no need to waste much time in trying to predict the desired disease within the possibility of errors occurs.
 </p>
 
+
+
+### 1.4	Summary of Report Structure
+
+The senior project design document is divided into several chapters to ensure that technical experts can read it easily. The following describe each chapter content:
+In Chapter 1, you will find an overview of intended outcomes and deliverables, as well as an introduction to the project, the problem statement, and the purpose of the project.
+Chapter 2 provides background information, which includes a project overview, relevant statistics, and previous research and projects that have explored similar ideas.
+In Chapter 3, the document outlines the main components of the project, and then provides an extensive explanation of the system design, which includes design specifications, related standards, and any constraints. The chapter focuses on design alternatives, system analysis, and optimization, and ends with simulation or experimental tests.
+Chapter 4 presents the project's findings and conclusions. 
+Chapter 5 concentrates on project management, which encompasses tasks, schedules, milestones, resource management, and cost management. The project lessons learned are included in this chapter.
+In Chapter 6, the impact of the engineering solution on the environment, economy, society, and other relevant issues are discussed.
+The document ends in Chapter 7 with the team's final thoughts on the project, the skills they acquired during the process, and recommendations for future work.
