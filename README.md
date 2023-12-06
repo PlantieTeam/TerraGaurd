@@ -18,7 +18,7 @@ Overall, the system promises to enhance the process of detecting plant diseases 
 
 Keywords: Smart Plant Disease Detection, Pests, Farmer, Plant, Smartphone Camera, CNN, Mobile Application. 
 
-## 1 CHAPTER 1: INTRODUCTION
+## 1  CHAPTER 1: INTRODUCTION
 
 
 <p align="justify">
