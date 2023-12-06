@@ -85,3 +85,11 @@ In Chapter 6, the impact of the engineering solution on the environment, economy
 The document ends in Chapter 7 with the team's final thoughts on the project, the skills they acquired during the process, and recommendations for future work.
 </p>
 
+## CHAPTER 2: BACKGROUND
+### 2.1	Overview
+<p align="justify">
+A plant disease detection system that utilizes deep learning algorithms allows farmers to use a mobile application to handle the recognition process of plant diseases through infected plant leaves images. After the system recognizes the specific disease, it provides the optimal treatment that the plant needs.
+</p>
+<p align="justify">
+The flow of this process follows some steps. First step is an image acquisition, image acquisition is the process of capturing the image through the smartphone camera.  After we captured the image and convert it to digital version, the image must go through the preprocessing step. Preprocessing mean do some changes in the image to prepare them for analysis. This step may include Noise reduction, Color space conversion, Normalization, and Segmentation. Finally, the image is ready to be inserted in the pre-trained CNN model. 
+</p>
