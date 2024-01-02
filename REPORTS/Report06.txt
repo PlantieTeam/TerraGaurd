@@ -1,0 +1,41 @@
+MEETING REPORT 3
+
+
+Team Name:  <TeamName>  Date of Meeting: 2024/2/1
+
+Start Time: 11:30     End Time: 11:51     Meeting Location: Prof Office
+
+Members:  Ahmad Ilawa, Mohammad Nassar, Ahmad Qassam, Dr. Mohammad Awad
+
+
+
+Topics Discussed:
+The review of the chapers ch1 to ch3 and ch6 to ch7 
+
+
+
+Decisions Made:
+We desucss about what has been done in chaper 2 and 3, and what the changes must be done
+
+
+Tasks Assigned:
+Document changes:
+[1] Modify the objecitves to be sorted from more specific to less (at least 4 objectives)
+[2] Add figure to the numbers and percentages of the citation in chapter 2
+[3] Rearrangement the sections in chaper3 to be (System Algorithms first)
+[4] Build/design a flowchart to the system algormth in general
+[5] Design System archtecture other than the previouse      
+[6] Add The Application features such as the fertilizers calculator, weather system, and Cummunity system
+[7] Modify some related works images to be compatible with the context (clear image, simple, descriptive)
+[8] Clear Description of the CNN architecture (specifiy the architecture, or General Description)
+
+Working on Chapter 4
+Working on Chaper 5
+
+
+
+Time, Place, and Agenda for Next Meeting:
+
+
+
+
