@@ -1,0 +1,30 @@
+MEETING REPORT 7
+
+
+Team Name:  Plantie  Date of Meeting: 2024/1/3
+
+Start Time: 8:15     End Time: 9:30     Meeting Location: Google Meet
+
+Members:  Ahmad Ilawa, Mohammad Nassar, Ahmad Qassam
+
+
+
+Topics Discussed:
+Execuation/implementation phase 
+
+
+
+Decisions Made:
+We descide to prepare some initial task before starting coding
+
+
+Tasks Assigned:
+Dataset Augmenation, Store diseases names with number of their pictures in excel file -> Ahmad Qassam
+Update the Required Changes inn the Document, get start with adobe after effect  -> Ahmad Ilawa
+Test and try to implement a initial Views of the project with dummy data -> Mohammad Nassar
+
+Time, Place, and Agenda for Next Meeting:
+
+
+
+
