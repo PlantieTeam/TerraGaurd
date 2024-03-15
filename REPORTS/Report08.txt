@@ -1,0 +1,32 @@
+MEETING REPORT 8
+
+
+Team Name:  Plantie  Date of Meeting: 2024/3/9
+
+Start Time: 12:15     End Time: 1:30     Meeting Location: Google Meet
+
+Members:  Ahmad Ilawa, Mohammad Nassar, Ahmad Qassam
+
+
+
+Topics Discussed:
+Web App Deisgn  in figma 
+Data agumentation and dataset splitting 
+Adding awad image in the community
+App samulation in ios devices
+
+
+
+Decisions Made:
+Agumentation process only for training dataset
+preparing to make a survey about the diseases, the treatment etc...
+
+
+Tasks Assigned:
+Ahmad Qassam -> Data agumentation 
+
+Time, Place, and Agenda for Next Meeting:
+2024/3/15 in  googel meet
+
+
+
